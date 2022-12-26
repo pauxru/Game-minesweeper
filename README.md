@@ -3,7 +3,7 @@ Minesweeper is a logic puzzle video game genre generally played on personal comp
 ## Usage
 Simply change your directory inside the terminal to a folder with the following files:
 
-- `start.py`
+- `minesweeper.py`
 - `game.py`
 - `functions.py`
 
